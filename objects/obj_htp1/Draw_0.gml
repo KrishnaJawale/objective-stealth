@@ -1,0 +1,5 @@
+/// @description Insert description here
+// You can write your code in this editor
+draw_set_colour(c_white);
+draw_set_font(fnt_ui);
+draw_text(x, y, "You are Marco, a clueless guy who somehow found his way into the freelance business.Your boss gives you an urgent job\nin a building. You must start at the roofand have to stealthily make your way through enemies to the first floor where the\nobjective is. However, there is only a SINGLE POINT OF ENTRY from one floor to the next: an elevator, one on each \nfloor. Unfortunately these elevators are heavily guarded, and require switches to turn on, all the way at the\nother side of the room. This task is made no easier by that fact that you may NOT kill any enemies, and when you collect\nyour objective, you will have to sneak your way back to the roof again where a helicopter will await you.");
